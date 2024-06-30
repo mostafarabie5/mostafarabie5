@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">A passionate Mobile developer from Egypt</h3>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafarabie5&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafarabie5&layout=compact&theme=nightowl)
-
 <div align="center">
 <img align="center" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUyNmVwNTk2bGdsOWgwZWx4N3Ezbmg0bHkycmpnY3JlbHNpaGtwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
 </div>
 <div> <p></p></div>
+
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafarabie5&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafarabie5&layout=compact&theme=nightowl)
 
 
 <div align="left">
