@@ -11,29 +11,29 @@
 
 <h2 aligh="left"> Languages and Tools</h2>
 <div align="center">
-<a href=""><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c++.svg" alt="c++" height="70" width="70"/></a>
+<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c++.svg" alt="c++" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg" alt="c" height="70" width="70"/></a>
+<a href="https://devdocs.io/c/"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg" alt="c" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/java.svg" alt="java" height="70" width="70"/></a>
+<a href="https://docs.oracle.com/javase/tutorial/"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/java.svg" alt="java" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/dart.svg" alt="dart" height="70" width="70"/></a>
+<a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/dart.svg" alt="dart" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" alt="javascript" height="70" width="70"/></a>
+<a href="https://devdocs.io/javascript/"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" alt="javascript" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" alt="python" height="70" width="70"/></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" alt="python" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="70" width="70"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="70" width="70"/></a>
+<a href="https://flutter.dev/"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/nodejs.svg" alt="nodejs" height="70" width="70"/></a>
+<a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/nodejs.svg" alt="nodejs" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://skillicons.dev/icons?i=express" alt="expressjs" height="70" width="70"/></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="expressjs" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="70" width="70"/></a>
+<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="70" width="70"/></a>
 <img width="2">
-<a href=""><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/firebase.svg" alt="firebase" height="70" width="70"/></a>
+<a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/firebase.svg" alt="firebase" height="70" width="70"/></a>
 
 </div>
 <h2 aligh="left">Connect with me </h2>
