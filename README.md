@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">A passionate SW Engineer from Egypt</h3>
+<h3 align="center">A passionate SW Engineer</h3>
 
 <div align="center">
 <img align="center" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUyNmVwNTk2bGdsOWgwZWx4N3Ezbmg0bHkycmpnY3JlbHNpaGtwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
